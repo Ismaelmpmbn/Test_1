@@ -1,3 +1,3 @@
-public class Test_isma {
+public class TestIsma {
     private String Bonjour;
 }
