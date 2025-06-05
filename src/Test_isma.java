@@ -1,7 +1,7 @@
 public class TestIsma {
     private String Bonjour;
 
-    public TestIsma(String bonsoir) {
-        Bonjour = bonjour;
+    public TestIsma(String jourbon) {
+        Bonjour = jourbon;
     }
 }
